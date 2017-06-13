@@ -152,7 +152,7 @@ var gmarkers = [];
     		setVisibilityMinicipalFieldTrue();
     		renderMunicipalLinks(theResult);
     		
-    		console.log(uniqueArray);
+    		//console.log(uniqueArray);
 
     	}else{
     		return null;
